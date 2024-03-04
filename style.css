@@ -1,7 +1,55 @@
+*{
+    font-family: "Roboto Slab", serif;
+}
 header{
     background: darkblue;
     color: aliceblue;
+    text-align: center;
 }
+header div, header h1{
+    display: inline-block;
+    margin: 0 5%;
+    vertical-align:middle;
+}
+
+header div p{
+    margin: 3px;
+    font-size: 16px;
+}
+
+header div p:first-child{
+    margin-bottom: 15px;
+    font-size: 1.5em;
+}
+
 img{
-    display: inline;
+    width: 120px;
+    margin: 15%;
+    padding: .5%;
+    background: white;
+    border-radius: 100px;
+    border: 2px solid black ;
+}
+
+body{
+    background: aliceblue;
+
+}
+
+.estudios, .experiencia-laboral{
+    display: inline-block;
+    vertical-align:middle;
+    text-align: justify;
+    padding-left: 5%;
+}
+
+.estudios{
+    background-color: azure;
+    height: 800px;
+    width: 30%;
+}
+
+.experiencia-laboral{
+    height: 800px;
+    
 }
