@@ -1,2 +1,2 @@
 # Sergio Martinez Meneses CV
-https://sergiommq.github.io/sergio-mm-cv/index.html
+Para ir a la web https://sergiommq.github.io/sergio-mm-cv/index.html
