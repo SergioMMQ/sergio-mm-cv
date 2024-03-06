@@ -34,6 +34,15 @@ img{
     border: 1px black solid;
 }
 /*index*/
+#objetivo{
+    border: 1px black solid;
+    margin: 0 25%;
+    margin-top: 100px;
+    border-radius: 30px;
+    height: 300px;
+    padding: 5%;
+    font-size: 1.5em;
+}
 
 /*experiencia*/
 .trabajo{
@@ -63,5 +72,9 @@ img{
         width: 90%;
         margin: 0px;
         padding-top: 60px;
+    }
+    #objetivo{
+        width: 80%;
+        margin: 75px auto;
     }
 }
